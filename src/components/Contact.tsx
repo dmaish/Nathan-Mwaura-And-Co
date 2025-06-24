@@ -35,7 +35,7 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-blue-600" />,
       title: "Email",
-      details: ["info@nathatmwaura.co.ke", "contact@nathatmwaura.co.ke"]
+      details: ["info@nathanmwaura.co.ke", "contact@nathanmwaura.co.ke"]
     },
     {
       icon: <MapPin className="h-6 w-6 text-blue-600" />,

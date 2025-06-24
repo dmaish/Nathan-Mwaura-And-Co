@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { CheckCircle, Target, Heart, Shield } from 'lucide-react';
 
@@ -43,7 +42,7 @@ const About = () => {
           <div>
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Our Story</h3>
             <p className="text-gray-700 mb-4 leading-relaxed">
-              Nathat Mwaura & Co. Advocates was founded with a simple yet powerful mission: to provide 
+              Nathan Mwaura & Co. Advocates was founded with a simple yet powerful mission: to provide 
               accessible, high-quality legal services to individuals and businesses across Kenya. Our 
               firm has built a reputation for excellence through years of dedicated service and successful 
               case outcomes.

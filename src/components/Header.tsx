@@ -20,7 +20,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold text-gray-900">
-              Nathat Mwaura & Co.
+              Nathan Mwaura & Co.
               <span className="block text-xs font-normal text-gray-600">Advocates</span>
             </h1>
           </div>

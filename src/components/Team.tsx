@@ -5,7 +5,7 @@ import { Award, BookOpen, Scale } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: "Nathat Mwaura",
+      name: "Nathan Mwaura",
       position: "Senior Partner & Founder",
       education: "LLB (Hons), University of Nairobi; Admitted to the Kenya Bar",
       specialization: "Corporate Law, Litigation, Real Estate",

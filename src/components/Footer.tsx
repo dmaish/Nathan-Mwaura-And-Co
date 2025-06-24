@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Scale, Phone, Mail, MapPin } from 'lucide-react';
 
@@ -21,7 +20,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-4">
               <Scale className="h-8 w-8 text-blue-400" />
               <div>
-                <h3 className="text-xl font-bold">Nathat Mwaura & Co.</h3>
+                <h3 className="text-xl font-bold">Nathan Mwaura & Co.</h3>
                 <p className="text-gray-400">Advocates</p>
               </div>
             </div>
@@ -93,7 +92,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {currentYear} Nathat Mwaura & Co. Advocates. All rights reserved.
+              © {currentYear} Nathan Mwaura & Co. Advocates. All rights reserved.
             </div>
             <div className="flex gap-6 text-sm text-gray-400">
               <button className="hover:text-blue-400 transition-colors">Privacy Policy</button>

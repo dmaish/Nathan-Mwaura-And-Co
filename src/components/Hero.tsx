@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Scale, Award, Users } from 'lucide-react';
 
@@ -19,7 +18,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-            Nathat Mwaura & Co.
+            Nathan Mwaura & Co.
             <span className="block text-2xl md:text-3xl font-light text-blue-300 mt-2">
               Advocates
             </span>
